@@ -12,3 +12,12 @@ background: #3D56B2;
 height: 60vh;
 }
 
+
+
+
+@media (min-width: 768px)
+  { 
+    .leftside, .rightside {
+      height: 100vh;
+    }
+}
